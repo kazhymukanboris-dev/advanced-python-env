@@ -14,4 +14,4 @@ else:
     print("Unknown operation")
     exit()
 
-print(first, operation, second, "=", calculation)
+print(first, operation, second, "=", calculation) 

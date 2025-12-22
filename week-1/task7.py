@@ -1,3 +1,4 @@
+
 first = int(input())
 operation = input()
 second = int(input())
