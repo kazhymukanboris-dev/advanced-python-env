@@ -20,3 +20,4 @@ else:
 
 difference = highest - lowest
 print(difference)
+
