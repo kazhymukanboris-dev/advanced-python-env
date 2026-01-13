@@ -2,6 +2,7 @@ import math
 a,b,c,d,e = list(map(int,input().split()))
 
 poluperimetr1 = (a + b + e ) / 2
+
 ploshad1 = math.sqrt(poluperimetr1 * (poluperimetr1-a) * (poluperimetr1-b) * (poluperimetr1-e))
 
 poluperimetr2 =  (c + d + e)  / 2

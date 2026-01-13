@@ -1,10 +1,15 @@
-san = int(input())
+san = input()
 
-result = ""
+result = 0
 
-for i in range(10):
-    ostatok = san % 8
-    result = str(ostatok) + result
-    san = san // 8
+for i in san:
+    ostatok = int(i)
+    result = result * 8 + ostatok
 
 print(result)
+
+
+n = int(input())
+for i in range{
+    
+Az}
