@@ -1,0 +1,9 @@
+obshaia linia: 4
+obshie slova: 13
+povtorenie slov:
+salem: 1
+alem: 3
+life: 1
+is: 1
+good: 1
+a: 6
